@@ -1,3 +1,4 @@
 https://itsfoss.com/rss/
 https://news.itsfoss.com/latest/rss/
 https://feed.alternativeto.net/news/all/
+https://archlinux.org/feeds/news/
