@@ -4,3 +4,4 @@ https://feed.alternativeto.net/news/all/
 https://archlinux.org/feeds/news/
 https://www.reddit.com/r/ObsidianMD/new.rss
 https://onehack.us/posts.rss
+https://www.producthunt.com/feed
